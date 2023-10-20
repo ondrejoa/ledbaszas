@@ -1,0 +1,3 @@
+[submodule "components/ws2812b-esp"]
+	path = components/ws2812b-esp
+	url = git@github.com:ondrejoa/ws2812b-esp.git
